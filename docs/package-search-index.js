@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"de.ludi.weekPlanerAPI"},{"l":"de.ludi.weekPlanerAPI.controller"},{"l":"de.ludi.weekPlanerAPI.dao"},{"l":"de.ludi.weekPlanerAPI.model"},{"l":"de.ludi.weekPlanerAPI.service"}]

@@ -1,0 +1,5 @@
+de.ludi.weekPlanerAPI
+de.ludi.weekPlanerAPI.controller
+de.ludi.weekPlanerAPI.dao
+de.ludi.weekPlanerAPI.model
+de.ludi.weekPlanerAPI.service
